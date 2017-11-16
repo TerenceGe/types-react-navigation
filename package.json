@@ -1,0 +1,69 @@
+{
+    "name": "@types/react-navigation",
+    "version": "1.0.22",
+    "description": "TypeScript definitions for react-navigation",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Huhuanming",
+            "url": "https://github.com/huhuanming",
+            "githubUsername": "huhuanming"
+        },
+        {
+            "name": "mhcgrq",
+            "url": "https://github.com/mhcgrq",
+            "githubUsername": "mhcgrq"
+        },
+        {
+            "name": "fangpenlin",
+            "url": "https://github.com/fangpenlin",
+            "githubUsername": "fangpenlin"
+        },
+        {
+            "name": "abrahambotros",
+            "url": "https://github.com/abrahambotros",
+            "githubUsername": "abrahambotros"
+        },
+        {
+            "name": "petejkim",
+            "url": "https://github.com/petejkim",
+            "githubUsername": "petejkim"
+        },
+        {
+            "name": "Kyle Roach",
+            "url": "https://github.com/iRoachie",
+            "githubUsername": "iRoachie"
+        },
+        {
+            "name": "phanalpha",
+            "url": "https://github.com/phanalpha",
+            "githubUsername": "phanalpha"
+        },
+        {
+            "name": "charlesfamu",
+            "url": "https://github.com/charlesfamu",
+            "githubUsername": "charlesfamu"
+        },
+        {
+            "name": "Tim Wang",
+            "url": "https://github.com/timwangdev",
+            "githubUsername": "timwangdev"
+        },
+        {
+            "name": "Qibang Sun",
+            "url": "https://github.com/bang88",
+            "githubUsername": "bang88"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "typesPublisherContentHash": "3c0d3f38acf023405fb63dc38191d791ef0a7cec1d6dd355b6975a7e4b14194d",
+    "typeScriptVersion": "2.3"
+}
